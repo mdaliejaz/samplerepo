@@ -1,4 +1,4 @@
 samplerepo
 ==========
 
-This repo is used for [Go](go.cd) workshop.
+This repo is used for [Go](http://go.cd) workshop.
