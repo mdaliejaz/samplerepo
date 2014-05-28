@@ -1,6 +1,5 @@
 package com.sample.moduletwo;
 
-
 import org.junit.Test;
 
 import static org.hamcrest.core.Is.is;
