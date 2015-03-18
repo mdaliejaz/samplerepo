@@ -11,4 +11,9 @@ public class ClassTwoTest {
     public void shouldTestName() {
         assertThat(new ClassTwo().name(), is("ClassTwo"));
     }
+
+    @Test
+    public void shouldFail() {
+        assertThat(new ClassTwo().name(), is("Crap"));
+    }
 }
